@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/silsilahkeluarga/static/css/main.e6c13ad2.css",
-    "main.js": "/silsilahkeluarga/static/js/main.a53bed64.js",
+    "main.js": "/silsilahkeluarga/static/js/main.ffc232d1.js",
     "static/js/453.2b520258.chunk.js": "/silsilahkeluarga/static/js/453.2b520258.chunk.js",
     "index.html": "/silsilahkeluarga/index.html",
     "main.e6c13ad2.css.map": "/silsilahkeluarga/static/css/main.e6c13ad2.css.map",
-    "main.a53bed64.js.map": "/silsilahkeluarga/static/js/main.a53bed64.js.map",
+    "main.ffc232d1.js.map": "/silsilahkeluarga/static/js/main.ffc232d1.js.map",
     "453.2b520258.chunk.js.map": "/silsilahkeluarga/static/js/453.2b520258.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a53bed64.js"
+    "static/js/main.ffc232d1.js"
   ]
 }
